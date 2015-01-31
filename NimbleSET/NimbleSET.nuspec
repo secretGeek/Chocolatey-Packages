@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>nimbleset</id>
+    <title>NimbleSET</title>
+    <version>2.0.2.25075</version>
+    <authors>Leon Bambrick</authors>
+    <owners>Leon Bambrick</owners>
+    <summary>Compare two lists (or join them, sort them, remove duplicates etc)</summary>
+    <description>NimbleSET lets you perform Venn diagram operations on two lists, or join them, sort them, shuffle them, remove duplicates etc. If you have two lists (or two tables of data) NimbleSET is your tool.</description>
+    <licenseUrl>http://www.NimbleText.com/SET/About</licenseUrl>
+    <projectUrl>http://www.NimbleText.com/SET/About</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
+    <iconUrl>http://www.NimbleText.com/img/nimbleIcon_32.png</iconUrl>
+    <tags>venn sets sort join tool text data csv .net</tags>
+  </metadata>
+</package>

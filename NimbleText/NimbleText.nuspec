@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>nimbletext</id>
+    <title>NimbleText</title>
+    <version>2.2.1.40629</version>
+    <authors>Leon Bambrick</authors>
+    <owners>Leon Bambrick</owners>
+    <summary>Text manipulation with lightweight patterns</summary>
+    <description>NimbleText removes the hard work from repetitive writing and repetitive editing. It takes the drudgery out of repetitive data manipulation and puts you in control of the text you are manipulating.</description>
+    <licenseUrl>http://www.NimbleText.com</licenseUrl>
+    <projectUrl>http://www.NimbleText.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!-- or true if you require the user to accept the License before installing -->
+    <iconUrl>http://www.NimbleText.com/img/nimbleIcon_32.png</iconUrl>
+    <tags>tool text data sed csv code generator .net</tags>
+  </metadata>
+</package>
